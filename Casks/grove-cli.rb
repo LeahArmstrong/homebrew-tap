@@ -6,7 +6,7 @@ cask "grove-cli" do
   version "0.1.0"
 
   livecheck do
-    url :url
+    url "https://github.com/LeahArmstrong/grove-cli/releases"
     strategy :github_latest
   end
 
