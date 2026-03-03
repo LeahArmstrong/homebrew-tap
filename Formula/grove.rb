@@ -1,8 +1,8 @@
 class Grove < Formula
   desc "Zero-friction worktree management for developers"
   homepage "https://github.com/LeahArmstrong/grove-cli"
-  url "https://github.com/LeahArmstrong/grove-cli/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d0fc742093745f801c05cdc5848ffdf5f13aae5d1ef4d4921dfab1eec5bd7a54"
+  url "https://github.com/LeahArmstrong/grove-cli/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "56ca4099429f9af70c87e4e0d65e4a5670f6cb8e0de1b841a8f07a8d139b7541"
   license "MIT"
 
   depends_on "go" => :build
